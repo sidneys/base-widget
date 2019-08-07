@@ -18,11 +18,11 @@
   "homepage": "https://github.com/slap-editor/base-widget#readme",
   "dependencies": {
     "blessed": "0.1.81",
-    "bluebird": "3.5.4",
-    "lodash": "4.17.11",
+    "bluebird": "3.5.5",
+    "lodash": "4.17.15",
     "rc": "1.2.8",
     "slap-util": "git+https://github.com/cancerberoSgx/slap-util.git",
-    "text-buffer": "13.15.3",
+    "text-buffer": "^13.17.0",
     "through2": "3.0.1"
   }
 }
