@@ -22,7 +22,7 @@
     "lodash": "4.17.15",
     "rc": "1.2.8",
     "slap-util": "git+https://github.com/cancerberoSgx/slap-util.git",
-    "text-buffer": "^13.17.0",
+    "text-buffer": "git+https://git@github.com/sidneys/text-buffer.git#master",
     "through2": "3.0.1"
   }
 }
